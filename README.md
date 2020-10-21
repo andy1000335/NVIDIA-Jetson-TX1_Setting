@@ -20,3 +20,10 @@ SDK Manager 必須在 Ubuntu 系統下操作，若沒有 Ubuntu 也可利用虛�
 |Dependencies|Requirements vary depending on the deployed SDK.|
 |Hardware|RAM 8GB|
 |Internet|Connection|
+
+---
+
+### :pushpin: 設置 SD 卡請看[這篇](SD-Card_setting.md)
+### :pushpin: Anaconda 安裝請看[這篇](Anaconda_download.md)
+### :pushpin: PyCharm IDE 安裝請看[這篇](PyCharm.md)
+### :pushpin: TensorFlow 下載請看[這篇](TensorFlow_install.md)
