@@ -7,6 +7,7 @@ Jetson TX1 嵌入式系統模組為 NVIDIA 所開發，適合在低功率限制�
 - [x] Mirco USB 傳輸線
 - [x] HDMI to VGA
 - [x] Webcam C270 HD
+<img src="image/JetsonTX1.png" width="250">
 
 ## 刷機
 在使用之前必須先進行刷機，主要用以刷新系統及安裝必要軟體  
