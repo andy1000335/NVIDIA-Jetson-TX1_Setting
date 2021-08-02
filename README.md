@@ -27,3 +27,4 @@ SDK Manager 必須在 Ubuntu 系統下操作，若沒有 Ubuntu 也可利用虛�
 ### :pushpin: Anaconda 安裝請看[這篇](Anaconda_download.md)
 ### :pushpin: PyCharm IDE 安裝請看[這篇](PyCharm.md)
 ### :pushpin: TensorFlow 下載請看[這篇](TensorFlow_install.md)
+### :pushpin: 遠端連線設定請看[這篇](VNC_connect.md)
